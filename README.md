@@ -6,7 +6,7 @@
 
 * I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,md,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,bash,md,html,css,js)](https://skillicons.dev)
 
 * I'd like to learn more:
 
@@ -19,11 +19,6 @@
 * 🔭 I’m currently working on <a href="https://github.com/Scelfo42/libft">Push_swap</a>
 
 * ⚡ Fun fact: Almost lost mental health after <a href="">fract-ol</a>
-
-* 📱 Socials:
-
-[![Instagram](https://www.instagram.com/)
-
 <!--
 **Scelfo42/Scelfo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
