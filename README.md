@@ -1,20 +1,18 @@
-### Hi there 👋
-1.
-https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283
+### Hi 👋, ![image](https://user-images.githubusercontent.com/115648081/229761035-e6d1bb8c-c70d-4e62-a2e9-b9ab37601d54.png) here!
 
-2.
+🌱 I’m currently learning C in 42Firenze
+
 [![cscelfo's 42 stats](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
 
-3.
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283" alt="cscelfo's 42 stats" /></a>
+🔭 I’m currently working on <a href="https://github.com/Scelfo42/libft">Push_swap</a>
 
 <!--
 **Scelfo42/Scelfo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
