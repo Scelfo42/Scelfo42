@@ -16,7 +16,9 @@
 
 [![cscelfo's 42 stats](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
 
-* 🔭 I’m currently working on <a href="https://github.com/Scelfo42/libft">Push_swap</a>
+* 🔭 I’m currently working on <a href="https://github.com/Scelfo42/libft">push_swap</a>
+
+[![cscelfo's 42 push_swap Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/2978327)](https://github.com/JaeSeoKim/badge42)
 
 * ⚡ Fun fact: Almost lost mental health after <a href="">fract-ol</a>
 <!--
