@@ -1,4 +1,12 @@
 ### Hi there 👋
+1.
+https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283
+
+2.
+[![cscelfo's 42 stats](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
+
+3.
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283" alt="cscelfo's 42 stats" /></a>
 
 <!--
 **Scelfo42/Scelfo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
