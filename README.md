@@ -10,7 +10,7 @@
 
 * I'd like to learn more:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,cpp,cs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,cpp,cs)](https://skillicons.dev)
 
 * 42Cursus stats:
 
