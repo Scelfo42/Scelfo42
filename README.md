@@ -20,7 +20,7 @@
 
     * [![cscelfo's 42 push_swap Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/2978327)](https://github.com/)
 
-### In Love with my 🇺🇸 girlfriend💗
+### In Love with my 🇺🇸 girlfriend🦔💗
 
 * ⚡ Fun fact: Almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>
 <!--
