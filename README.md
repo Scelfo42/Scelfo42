@@ -25,10 +25,10 @@
 * ⚡ Fun fact: Almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>
 
   <p align="center">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=star-child-0&theme=radical" height="185" />
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Scelfo42&theme=radical" height="185" />
   
-    <img src="https://github-readme-stats.vercel.app/api?username=star-child-0&show_icons=true&theme=radical" height="185" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-child-0&layout=compact&theme=radical&langs_count=10" height="185" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Scelfo42&show_icons=true&theme=radical" height="185" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scelfo42&layout=compact&theme=radical&langs_count=10" height="185" />
   </p>
 <!--
 **Scelfo42/Scelfo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
