@@ -18,6 +18,8 @@
 
 * 🔭 I’m currently working on <a href="https://github.com/Scelfo42/pipex">pipex</a>
 
+[![cscelfo's 42 pipex Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3089535)](https://github.com/JaeSeoKim/badge42)
+
 * ⚡ Fun fact: Almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>
 
   <p align="center">
