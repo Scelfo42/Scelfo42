@@ -16,9 +16,7 @@
 
 [![cscelfo's 42 stats](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
 
-* 🔭 I’m currently working on <a href="https://github.com/Scelfo42/philosopher">philosopher</a>
-
-     [![cscelfo's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3110462)](https://github.com/JaeSeoKim/badge42)
+* 🔭 I’m currently working on <a href="https://github.com/Scelfo42/philosopher">minishell</a>
 
 * ⚡ Fun fact: Almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>
 
