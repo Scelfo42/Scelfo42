@@ -7,7 +7,7 @@
 
 <p float="left" align="center">
   <a href="https://github.com/jotavare/42-resources">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_resources.png" width="265"/>
+    <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Piscine-banner.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-piscine">
