@@ -22,10 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vim,bash,md,html,css,js)](https://skillicons.dev)
 
-* I'd like to learn more:
-
-[![My Skills](https://skillicons.dev/icons?i=aws,cpp,typescript)](https://skillicons.dev)
-
 * 42Cursus stats:
 
 [![cscelfo's 42 stats](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
