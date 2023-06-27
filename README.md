@@ -15,7 +15,7 @@
 ## Presentation
 
 - I'm `Christian Scelfo`, 20yo approaching this amazing world of developers.
-- 🌱 I’m a student at <a href='https://42firenze.it/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Firenze-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>, currently proceeding with the Common-Core after successfully completing the Piscine.
+- 🌱 I’m a student at <a href='https://42firenze.it/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Firenze-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>, currently proceeding with the Common-Core after successfully completing the Piscine selection.
 <!-- 👀 I’m interested in . -->
 - ⚡ Fun fact: Almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>, check it out!
 - 📫 You can reach me on <a href='https://www.linkedin.com/in/christian-scelfo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a>.
@@ -35,13 +35,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scelfo42&layout=compact&theme=radical&langs_count=10" height="185" />
   </p>
 
-* 🌱 I’m currently learning C in 42Firenze
-
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-
-* I'm familiar with:
-
-[![My Skills](https://skillicons.dev/icons?i=vim,bash,md,html,css,js)](https://skillicons.dev)
+## Skills
+  <p align="left">
+    [![My Skills](https://skillicons.dev/icons?i=c,linux,vim,bash,md,html,css,js)](https://skillicons.dev)
+  </p>
 <!--
 **Scelfo42/Scelfo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
