@@ -1,8 +1,7 @@
 ## Useful Links
 <p float="left" align="center">
-  <a href="https://github.com/jotavare/"><img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Piscine-banner.png" widht="250"></img></a>
-  &nbsp;
-  <a href="https://github.com/jotavare/"><img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Common-Core-banner.png" widht="250"></img></a>
+  <a href="https://github.com/jotavare/"><img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Piscine-banner.png" widht="100"></img></a>
+  <a href="https://github.com/jotavare/"><img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Common-Core-banner.png" widht="100"></img></a>
 </p>
 
 * 🌱 I’m currently learning C in 42Firenze
