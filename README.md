@@ -1,4 +1,4 @@
-# Hi 👋, 🦆 programmer here!
+
 
 * 🌱 I’m currently learning C in 42Firenze
 
