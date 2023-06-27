@@ -11,8 +11,6 @@
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Discovery-Piscine-banner.png" width="265"/>
   </a>
   <p align="center">
-    
-    </a>
     <a href='https://42firenze.it/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Firenze-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
     </a>
   </p>
