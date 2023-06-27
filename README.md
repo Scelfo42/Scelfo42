@@ -11,12 +11,35 @@
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Discovery-Piscine-banner.png" width="265"/>
   </a>
   <p align="center">
-    <a href='https://www.linkedin.com/in/christian-scelfo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a>
+    
     </a>
     <a href='https://42firenze.it/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Firenze-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
     </a>
   </p>
 </p>
+
+## Presentation
+
+- I'm `Christian Scelfo`, 20yo approaching this amazing world of developers. At 42Firenze they know me as `cscelfo`.
+- 🌱 I’m a student at 42 Firenze, currently proceeding with the Common-Core after successfully completing the Piscine.
+<!-- 👀 I’m interested in . -->
+- ⚡ Fun fact: Almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>, check it out!
+- 📫 You can reach me on <a href='https://www.linkedin.com/in/christian-scelfo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a>.
+
+## 42 STATS
+
+[![cscelfo's 42 stats](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
+
+* 🔭 I’m currently working on <a href="https://github.com/Scelfo42/Minishell">minishell</a>
+
+  [![cscelfo's 42 minishell Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3112055)](https://github.com/JaeSeoKim/badge42)
+
+  <p align="center">
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Scelfo42&theme=radical" height="185" />
+  
+    <img src="https://github-readme-stats.vercel.app/api?username=Scelfo42&show_icons=true&theme=radical" height="185" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scelfo42&layout=compact&theme=radical&langs_count=10" height="185" />
+  </p>
 
 * 🌱 I’m currently learning C in 42Firenze
 
@@ -25,23 +48,6 @@
 * I'm familiar with:
 
 [![My Skills](https://skillicons.dev/icons?i=vim,bash,md,html,css,js)](https://skillicons.dev)
-
-* 42Cursus stats:
-
-[![cscelfo's 42 stats](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
-
-* 🔭 I’m currently working on <a href="https://github.com/Scelfo42/Minishell">minishell</a>
-
-  [![cscelfo's 42 minishell Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3112055)](https://github.com/JaeSeoKim/badge42)
-
-* ⚡ Fun fact: Almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>, check it out!
-
-  <p align="center">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Scelfo42&theme=radical" height="185" />
-  
-    <img src="https://github-readme-stats.vercel.app/api?username=Scelfo42&show_icons=true&theme=radical" height="185" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scelfo42&layout=compact&theme=radical&langs_count=10" height="185" />
-  </p>
 <!--
 **Scelfo42/Scelfo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
