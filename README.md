@@ -14,7 +14,7 @@
 
 ## Presentation
 
-- I'm `Christian Scelfo`, 20yo approaching this amazing world of developers. At <a href='https://42firenze.it/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Firenze-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a> they know me as `cscelfo`.
+- I'm `Christian Scelfo`, 20yo approaching this amazing world of developers.
 - 🌱 I’m a student at <a href='https://42firenze.it/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Firenze-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>, currently proceeding with the Common-Core after successfully completing the Piscine.
 <!-- 👀 I’m interested in . -->
 - ⚡ Fun fact: Almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>, check it out!
