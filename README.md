@@ -11,13 +11,11 @@
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Discovery-Piscine-banner.png" width="265"/>
   </a>
   <p align="center">
-    <a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a>
+    <a href='https://www.linkedin.com/in/christian-scelfo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a>
     </a>
-    <a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+    <a href='https://42firenze.it/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Firenze-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
     </a>
-  <img src="https://komarev.com/ghpvc/?username=jotavare&style=flat&color=blue"></a>
-  </a>
-</p>
+  </p>
 </p>
 
 * 🌱 I’m currently learning C in 42Firenze
