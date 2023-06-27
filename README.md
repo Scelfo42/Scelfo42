@@ -4,7 +4,6 @@
   <a href="https://github.com/jotavare/42-resources">
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Piscine-banner.png" width="265"/>
   </a>
-  &nbsp;
   <a href="https://github.com/Scelfo42/42-Common-Core">
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Common-Core-banner.png" width="265"/>
   </a>
