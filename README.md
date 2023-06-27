@@ -37,7 +37,9 @@
 
 ## Skills
   <p align="left">
-    [![My Skills](https://skillicons.dev/icons?i=c,linux,vim,bash,md,html,css,js)](https://skillicons.dev)
+    <a href="https://skillicons.dev/icons">
+      <img src="https://skillicons.dev/icons?i=c,html,css,python,git,github,bash,linux,vim,vscode,ai,ps,sketchup,markdown,wordpress" />
+    </a>
   </p>
 <!--
 **Scelfo42/Scelfo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
