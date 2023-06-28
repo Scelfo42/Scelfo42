@@ -15,10 +15,14 @@
 ## Presentation
 
 - I'm `Christian Scelfo`, 20yo approaching this amazing world of developers.
+
 - 🌱 I’m a student at <a href='https://42firenze.it/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Firenze-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>, currently proceeding with the Common-Core after successfully completing the Piscine selection.
+
 <!-- 👀 I’m interested in . -->
 - ⚡ Fun fact: I almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>, check it out!
-- 🔭 I’m currently working on <a href="https://github.com/Scelfo42/Minishell">minishell</a>  [![cscelfo's 42 minishell Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3112055)](https://github.com/JaeSeoKim/badge42)
+
+- 🔭 I’m currently working on <a href="https://github.com/Scelfo42/Minishell">minishell</a>
+
 - 📫 You can reach me on <a href='https://www.linkedin.com/in/christian-scelfo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a>.
 
 ## 42 STATS
