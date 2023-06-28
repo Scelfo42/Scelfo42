@@ -4,10 +4,10 @@
   <a href="https://github.com/jotavare" target="_blank">
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Piscine-banner.png" width="265"/>
   </a>
-  <a href="https://github.com/Scelfo42/42-Common-Core">
+  <a href="https://github.com/Scelfo42/42-Common-Core" target="_blank">
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Common-Core-banner.png" width="265"/>
   </a>
-  <a href="https://github.com/Scelfo42/discovery_piscine">
+  <a href="https://github.com/Scelfo42/discovery_piscine" target="_blank">
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Discovery-Piscine-banner.png" width="265"/>
   </a>
 </p>
