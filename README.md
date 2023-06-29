@@ -1,7 +1,7 @@
 ## Useful Links
 
 <p float="left" align="center">
-  <a href="https://github.com/jotavare" target="_blank">
+  <a href="https://github.com/Scelfo42/42_piscine" target="_blank">
     <img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Piscine-banner.png" width="265"/>
   </a>
   <a href="https://github.com/Scelfo42/42-Common-Core" target="_blank">
