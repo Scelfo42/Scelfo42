@@ -21,7 +21,7 @@
 <!-- 👀 I’m interested in . -->
 - ⚡ Fun fact: I almost lost mental health after <a href="https://github.com/Scelfo42/fract-ol">fract-ol</a>, check it out!
 
-- 🔭 I’m currently working on <a href="">CPP00</a>
+- 🔭 I’m currently working on <a href="https://github.com/Scelfo42/CPP_Modules/tree/master/CPP01">CPP01</a>
 
 - 📫 You can reach me on <a href='https://www.linkedin.com/in/christian-scelfo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a>.
 
