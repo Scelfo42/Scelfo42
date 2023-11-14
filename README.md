@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/Scelfo42/CPP_Modules/tree/master/CPP04">CPP04</a>
 
-- 📫 You can reach me on <a href='https://www.linkedin.com/in/christian-scelfo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a>.
+- 📫 You can reach me on <a href='https://www.linkedin.com/in/christian-scelfo/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white labelColor=0A66C2&color=0A66C2'/></a><a href="mailto:rimscelfo.christian@gmail.com" target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 
 ## 42 STATS
 
